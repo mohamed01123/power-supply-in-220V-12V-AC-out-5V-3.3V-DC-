@@ -61,3 +61,4 @@ Make sure proper heat sinking is used for the regulators if high current is expe
 DO NOT touch the board while connected to 220V AC for safety.
 
 .
+
